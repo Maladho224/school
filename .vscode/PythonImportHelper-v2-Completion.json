@@ -1,0 +1,2464 @@
+[
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "messages",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "AppConfig",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {}
+    },
+    {
+        "label": "AppConfig",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {}
+    },
+    {
+        "label": "AppConfig",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {}
+    },
+    {
+        "label": "django.db",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "django.db",
+        "description": "django.db",
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "TestCase",
+        "importPath": "django.test",
+        "description": "django.test",
+        "isExtraImport": true,
+        "detail": "django.test",
+        "documentation": {}
+    },
+    {
+        "label": "TestCase",
+        "importPath": "django.test",
+        "description": "django.test",
+        "isExtraImport": true,
+        "detail": "django.test",
+        "documentation": {}
+    },
+    {
+        "label": "TestCase",
+        "importPath": "django.test",
+        "description": "django.test",
+        "isExtraImport": true,
+        "detail": "django.test",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "include",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
+        "documentation": {}
+    },
+    {
+        "label": "urls",
+        "importPath": "testapp",
+        "description": "testapp",
+        "isExtraImport": true,
+        "detail": "testapp",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "testapp",
+        "description": "testapp",
+        "isExtraImport": true,
+        "detail": "testapp",
+        "documentation": {}
+    },
+    {
+        "label": "views",
+        "importPath": "testapp",
+        "description": "testapp",
+        "isExtraImport": true,
+        "detail": "testapp",
+        "documentation": {}
+    },
+    {
+        "label": "urls",
+        "importPath": "testapp",
+        "description": "testapp",
+        "isExtraImport": true,
+        "detail": "testapp",
+        "documentation": {}
+    },
+    {
+        "label": "static",
+        "importPath": "django.conf.urls.static",
+        "description": "django.conf.urls.static",
+        "isExtraImport": true,
+        "detail": "django.conf.urls.static",
+        "documentation": {}
+    },
+    {
+        "label": "static",
+        "importPath": "django.conf.urls.static",
+        "description": "django.conf.urls.static",
+        "isExtraImport": true,
+        "detail": "django.conf.urls.static",
+        "documentation": {}
+    },
+    {
+        "label": "render",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "HttpResponse",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "render",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "get_object_or_404",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "render",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "redirect",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "HttpResponse",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "django.contrib.auth.models",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "django.contrib.auth.models",
+        "description": "django.contrib.auth.models",
+        "detail": "django.contrib.auth.models",
+        "documentation": {}
+    },
+    {
+        "label": "AbstractUser",
+        "importPath": "django.contrib.auth.models",
+        "description": "django.contrib.auth.models",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.models",
+        "documentation": {}
+    },
+    {
+        "label": "django.contrib.auth.validators",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "django.contrib.auth.validators",
+        "description": "django.contrib.auth.validators",
+        "detail": "django.contrib.auth.validators",
+        "documentation": {}
+    },
+    {
+        "label": "django.utils.timezone",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "django.utils.timezone",
+        "description": "django.utils.timezone",
+        "detail": "django.utils.timezone",
+        "documentation": {}
+    },
+    {
+        "label": "django.db.models.deletion",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "django.db.models.deletion",
+        "description": "django.db.models.deletion",
+        "detail": "django.db.models.deletion",
+        "documentation": {}
+    },
+    {
+        "label": "forms",
+        "importPath": "django",
+        "description": "django",
+        "isExtraImport": true,
+        "detail": "django",
+        "documentation": {}
+    },
+    {
+        "label": "UserCreationForm",
+        "importPath": "django.contrib.auth.forms",
+        "description": "django.contrib.auth.forms",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.forms",
+        "documentation": {}
+    },
+    {
+        "label": "login",
+        "importPath": "django.contrib.auth",
+        "description": "django.contrib.auth",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth",
+        "documentation": {}
+    },
+    {
+        "label": "authenticate",
+        "importPath": "django.contrib.auth",
+        "description": "django.contrib.auth",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth",
+        "documentation": {}
+    },
+    {
+        "label": "logout",
+        "importPath": "django.contrib.auth",
+        "description": "django.contrib.auth",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth",
+        "documentation": {}
+    },
+    {
+        "label": "login_required",
+        "importPath": "django.contrib.auth.decorators",
+        "description": "django.contrib.auth.decorators",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.decorators",
+        "documentation": {}
+    },
+    {
+        "label": "permission_required",
+        "importPath": "django.contrib.auth.decorators",
+        "description": "django.contrib.auth.decorators",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.decorators",
+        "documentation": {}
+    },
+    {
+        "label": "Count",
+        "importPath": "django.db.models",
+        "description": "django.db.models",
+        "isExtraImport": true,
+        "detail": "django.db.models",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "Direction.urls",
+        "description": "Direction.urls",
+        "isExtraImport": true,
+        "detail": "Direction.urls",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "get_asgi_application",
+        "importPath": "django.core.asgi",
+        "description": "django.core.asgi",
+        "isExtraImport": true,
+        "detail": "django.core.asgi",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "urls",
+        "importPath": "Direction",
+        "description": "Direction",
+        "isExtraImport": true,
+        "detail": "Direction",
+        "documentation": {}
+    },
+    {
+        "label": "get_wsgi_application",
+        "importPath": "django.core.wsgi",
+        "description": "django.core.wsgi",
+        "isExtraImport": true,
+        "detail": "django.core.wsgi",
+        "documentation": {}
+    },
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {}
+    },
+    {
+        "label": "DirectionConfig",
+        "kind": 6,
+        "importPath": "Direction.apps",
+        "description": "Direction.apps",
+        "peekOfCode": "class DirectionConfig(AppConfig):\n    default_auto_field = 'django.db.models.BigAutoField'\n    name = 'Direction'",
+        "detail": "Direction.apps",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "Direction.urls",
+        "description": "Direction.urls",
+        "peekOfCode": "urlpatterns = [\n   path('',index, name='index')\n]+static(settings.MEDIA_URL,document_root=settings.MEDIA_ROOT)",
+        "detail": "Direction.urls",
+        "documentation": {}
+    },
+    {
+        "label": "index",
+        "kind": 2,
+        "importPath": "Direction.views",
+        "description": "Direction.views",
+        "peekOfCode": "def index(request):\n    return render(request,'AdminPages/index.html')",
+        "detail": "Direction.views",
+        "documentation": {}
+    },
+    {
+        "label": "ProfConfig",
+        "kind": 6,
+        "importPath": "Prof.apps",
+        "description": "Prof.apps",
+        "peekOfCode": "class ProfConfig(AppConfig):\n    default_auto_field = 'django.db.models.BigAutoField'\n    name = 'Prof'",
+        "detail": "Prof.apps",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "testapp.migrations.0001_initial",
+        "description": "testapp.migrations.0001_initial",
+        "peekOfCode": "class Migration(migrations.Migration):\n    initial = True\n    dependencies = [\n        ('auth', '0012_alter_user_first_name_max_length'),\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='UserForm',\n            fields=[\n                ('id', models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),",
+        "detail": "testapp.migrations.0001_initial",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "testapp.migrations.0002_alter_userform_username",
+        "description": "testapp.migrations.0002_alter_userform_username",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('testapp', '0001_initial'),\n    ]\n    operations = [\n        migrations.AlterField(\n            model_name='userform',\n            name='username',\n            field=models.CharField(blank=True, max_length=50, null=True),\n        ),",
+        "detail": "testapp.migrations.0002_alter_userform_username",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "testapp.migrations.0003_alter_userform_phone",
+        "description": "testapp.migrations.0003_alter_userform_phone",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('testapp', '0002_alter_userform_username'),\n    ]\n    operations = [\n        migrations.AlterField(\n            model_name='userform',\n            name='phone',\n            field=models.IntegerField(max_length=100, null=True, unique=True),\n        ),",
+        "detail": "testapp.migrations.0003_alter_userform_phone",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "testapp.migrations.0004_alter_userform_phone",
+        "description": "testapp.migrations.0004_alter_userform_phone",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('testapp', '0003_alter_userform_phone'),\n    ]\n    operations = [\n        migrations.AlterField(\n            model_name='userform',\n            name='phone',\n            field=models.TextField(max_length=100, null=True, unique=True),\n        ),",
+        "detail": "testapp.migrations.0004_alter_userform_phone",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "testapp.migrations.0005_rename_userform_userforms",
+        "description": "testapp.migrations.0005_rename_userform_userforms",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('admin', '0003_logentry_add_action_flag_choices'),\n        ('auth', '0012_alter_user_first_name_max_length'),\n        ('testapp', '0004_alter_userform_phone'),\n    ]\n    operations = [\n        migrations.RenameModel(\n            old_name='UserForm',\n            new_name='UserForms',",
+        "detail": "testapp.migrations.0005_rename_userform_userforms",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "testapp.migrations.0006_rename_userforms_userform",
+        "description": "testapp.migrations.0006_rename_userforms_userform",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('admin', '0003_logentry_add_action_flag_choices'),\n        ('auth', '0012_alter_user_first_name_max_length'),\n        ('testapp', '0005_rename_userform_userforms'),\n    ]\n    operations = [\n        migrations.RenameModel(\n            old_name='UserForms',\n            new_name='UserForm',",
+        "detail": "testapp.migrations.0006_rename_userforms_userform",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "testapp.migrations.0007_remove_userform_zip_userform_classe_and_more",
+        "description": "testapp.migrations.0007_remove_userform_zip_userform_classe_and_more",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('testapp', '0006_rename_userforms_userform'),\n    ]\n    operations = [\n        migrations.RemoveField(\n            model_name='userform',\n            name='zip',\n        ),\n        migrations.AddField(",
+        "detail": "testapp.migrations.0007_remove_userform_zip_userform_classe_and_more",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "testapp.migrations.0008_alter_userform_phone",
+        "description": "testapp.migrations.0008_alter_userform_phone",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('testapp', '0007_remove_userform_zip_userform_classe_and_more'),\n    ]\n    operations = [\n        migrations.AlterField(\n            model_name='userform',\n            name='phone',\n            field=models.IntegerField(max_length=10, null=True, unique=True),\n        ),",
+        "detail": "testapp.migrations.0008_alter_userform_phone",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "testapp.migrations.0009_cours",
+        "description": "testapp.migrations.0009_cours",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('testapp', '0008_alter_userform_phone'),\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='Cours',\n            fields=[\n                ('id', models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),\n                ('classe', models.CharField(choices=[('7eme', '7eme'), ('8eme', '8eme'), ('9eme', '9eme'), ('10eme', '10eme'), ('11emesm', '11eme SM'), ('11emese', '11eme SE'), ('11emess', '11eme SS'), ('12emesm', '12eme SM'), ('12emese', '12eme SE'), ('12emess', '12eme SS'), ('tsm', 'TSM'), ('tse', 'TSE'), ('tss', 'TSS')], default='', max_length=50)),",
+        "detail": "testapp.migrations.0009_cours",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "testapp.migrations.0010_userform_role_alter_userform_phone",
+        "description": "testapp.migrations.0010_userform_role_alter_userform_phone",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('testapp', '0009_cours'),\n    ]\n    operations = [\n        migrations.AddField(\n            model_name='userform',\n            name='role',\n            field=models.CharField(choices=[('Administrateur', 'Administrateur'), ('Directeur', 'Directeur'), ('Professeur', 'Professeur')], default='', max_length=50),\n        ),",
+        "detail": "testapp.migrations.0010_userform_role_alter_userform_phone",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "testapp.migrations.0011_userform_date_aj",
+        "description": "testapp.migrations.0011_userform_date_aj",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('testapp', '0010_userform_role_alter_userform_phone'),\n    ]\n    operations = [\n        migrations.AddField(\n            model_name='userform',\n            name='date_aj',\n            field=models.DateField(auto_now=True),\n        ),",
+        "detail": "testapp.migrations.0011_userform_date_aj",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "testapp.migrations.0012_role_alter_userform_role",
+        "description": "testapp.migrations.0012_role_alter_userform_role",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('testapp', '0011_userform_date_aj'),\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='Role',\n            fields=[\n                ('id', models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),\n                ('role', models.CharField(choices=[('Administrateur', 'Administrateur'), ('Directeur', 'Directeur'), ('Professeur', 'Professeur')], default='', max_length=50)),",
+        "detail": "testapp.migrations.0012_role_alter_userform_role",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "testapp.migrations.0013_classe_alter_userform_classe",
+        "description": "testapp.migrations.0013_classe_alter_userform_classe",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('testapp', '0012_role_alter_userform_role'),\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='Classe',\n            fields=[\n                ('id', models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),\n                ('classe', models.CharField(choices=[('7eme', '7eme'), ('8eme', '8eme'), ('9eme', '9eme'), ('10eme', '10eme'), ('11emesm', '11eme SM'), ('11emese', '11eme SE'), ('11emess', '11eme SS'), ('12emesm', '12eme SM'), ('12emese', '12eme SE'), ('12emess', '12eme SS'), ('tsm', 'TSM'), ('tse', 'TSE'), ('tss', 'TSS')], default='', max_length=50)),",
+        "detail": "testapp.migrations.0013_classe_alter_userform_classe",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "testapp.migrations.0014_alter_userform_phone",
+        "description": "testapp.migrations.0014_alter_userform_phone",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('testapp', '0013_classe_alter_userform_classe'),\n    ]\n    operations = [\n        migrations.AlterField(\n            model_name='userform',\n            name='phone',\n            field=models.IntegerField(max_length=50, null=True, unique=True),\n        ),",
+        "detail": "testapp.migrations.0014_alter_userform_phone",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "testapp.migrations.0015_alter_userform_classe_alter_userform_role_and_more",
+        "description": "testapp.migrations.0015_alter_userform_classe_alter_userform_role_and_more",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('testapp', '0014_alter_userform_phone'),\n    ]\n    operations = [\n        migrations.AlterField(\n            model_name='userform',\n            name='classe',\n            field=models.CharField(choices=[('7eme', '7eme'), ('8eme', '8eme'), ('9eme', '9eme'), ('10eme', '10eme'), ('11emesm', '11eme SM'), ('11emese', '11eme SE'), ('11emess', '11eme SS'), ('12emesm', '12eme SM'), ('12emese', '12eme SE'), ('12emess', '12eme SS'), ('tsm', 'TSM'), ('tse', 'TSE'), ('tss', 'TSS')], default='', max_length=50),\n        ),",
+        "detail": "testapp.migrations.0015_alter_userform_classe_alter_userform_role_and_more",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "testapp.migrations.0016_remove_userform_role",
+        "description": "testapp.migrations.0016_remove_userform_role",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('testapp', '0015_alter_userform_classe_alter_userform_role_and_more'),\n    ]\n    operations = [\n        migrations.RemoveField(\n            model_name='userform',\n            name='role',\n        ),\n    ]",
+        "detail": "testapp.migrations.0016_remove_userform_role",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "testapp.migrations.0017_userform_role",
+        "description": "testapp.migrations.0017_userform_role",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('testapp', '0016_remove_userform_role'),\n    ]\n    operations = [\n        migrations.AddField(\n            model_name='userform',\n            name='role',\n            field=models.CharField(choices=[('Administrateur', 'Administrateur'), ('Directeur', 'Directeur'), ('Professeur', 'Professeur')], default='', max_length=50),\n        ),",
+        "detail": "testapp.migrations.0017_userform_role",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "testapp.migrations.0018_userform_matieres",
+        "description": "testapp.migrations.0018_userform_matieres",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('testapp', '0017_userform_role'),\n    ]\n    operations = [\n        migrations.AddField(\n            model_name='userform',\n            name='matieres',\n            field=models.CharField(choices=[('maths', 'Maths'), ('physique', 'physique'), ('chimie', 'Chimie')], default='', max_length=50),\n        ),",
+        "detail": "testapp.migrations.0018_userform_matieres",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "testapp.migrations.0019_ecole",
+        "description": "testapp.migrations.0019_ecole",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('testapp', '0018_userform_matieres'),\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='Ecole',\n            fields=[\n                ('id', models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),\n                ('ecoles', models.CharField(choices=[('lycee bamban', 'lycee bamban'), ('lune de sam', 'Lune de sam'), ('GLC kenende', 'GLC kenende')], default='', max_length=50)),",
+        "detail": "testapp.migrations.0019_ecole",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "testapp.migrations.0020_classes_matieres_role_cours_ecole_userform_ecole_and_more",
+        "description": "testapp.migrations.0020_classes_matieres_role_cours_ecole_userform_ecole_and_more",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('testapp', '0019_ecole'),\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='Classes',\n            fields=[\n                ('id', models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),\n                ('classe', models.CharField(choices=[('7eme', '7eme'), ('8eme', '8eme'), ('9eme', '9eme'), ('10eme', '10eme'), ('11emesm', '11eme SM'), ('11emese', '11eme SE'), ('11emess', '11eme SS'), ('12emesm', '12eme SM'), ('12emese', '12eme SE'), ('12emess', '12eme SS'), ('tsm', 'TSM'), ('tse', 'TSE'), ('tss', 'TSS')], default='', max_length=50)),",
+        "detail": "testapp.migrations.0020_classes_matieres_role_cours_ecole_userform_ecole_and_more",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "testapp.migrations.0021_alter_userform_role",
+        "description": "testapp.migrations.0021_alter_userform_role",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('testapp', '0020_classes_matieres_role_cours_ecole_userform_ecole_and_more'),\n    ]\n    operations = [\n        migrations.AlterField(\n            model_name='userform',\n            name='role',\n            field=models.ForeignKey(null=True, on_delete=django.db.models.deletion.CASCADE, to='testapp.role'),\n        ),",
+        "detail": "testapp.migrations.0021_alter_userform_role",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "testapp.migrations.0022_alter_userform_classe_alter_userform_matieres",
+        "description": "testapp.migrations.0022_alter_userform_classe_alter_userform_matieres",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('testapp', '0021_alter_userform_role'),\n    ]\n    operations = [\n        migrations.AlterField(\n            model_name='userform',\n            name='classe',\n            field=models.ForeignKey(null=True, on_delete=django.db.models.deletion.CASCADE, to='testapp.classes'),\n        ),",
+        "detail": "testapp.migrations.0022_alter_userform_classe_alter_userform_matieres",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "testapp.migrations.0023_alter_userform_ecole",
+        "description": "testapp.migrations.0023_alter_userform_ecole",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('testapp', '0022_alter_userform_classe_alter_userform_matieres'),\n    ]\n    operations = [\n        migrations.AlterField(\n            model_name='userform',\n            name='ecole',\n            field=models.ForeignKey(null=True, on_delete=django.db.models.deletion.CASCADE, to='testapp.ecole'),\n        ),",
+        "detail": "testapp.migrations.0023_alter_userform_ecole",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "testapp.migrations.0024_alter_classes_classe_alter_ecole_ecoles_and_more",
+        "description": "testapp.migrations.0024_alter_classes_classe_alter_ecole_ecoles_and_more",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('testapp', '0023_alter_userform_ecole'),\n    ]\n    operations = [\n        migrations.AlterField(\n            model_name='classes',\n            name='classe',\n            field=models.CharField(default='', max_length=50),\n        ),",
+        "detail": "testapp.migrations.0024_alter_classes_classe_alter_ecole_ecoles_and_more",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "testapp.migrations.0025_alter_matieres_matieres_alter_role_role_and_more",
+        "description": "testapp.migrations.0025_alter_matieres_matieres_alter_role_role_and_more",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('testapp', '0024_alter_classes_classe_alter_ecole_ecoles_and_more'),\n    ]\n    operations = [\n        migrations.AlterField(\n            model_name='matieres',\n            name='matieres',\n            field=models.CharField(max_length=50),\n        ),",
+        "detail": "testapp.migrations.0025_alter_matieres_matieres_alter_role_role_and_more",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "testapp.migrations.0026_alter_userform_matieres_alter_userform_role",
+        "description": "testapp.migrations.0026_alter_userform_matieres_alter_userform_role",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('testapp', '0025_alter_matieres_matieres_alter_role_role_and_more'),\n    ]\n    operations = [\n        migrations.AlterField(\n            model_name='userform',\n            name='matieres',\n            field=models.ForeignKey(null=True, on_delete=django.db.models.deletion.CASCADE, to='testapp.matieres'),\n        ),",
+        "detail": "testapp.migrations.0026_alter_userform_matieres_alter_userform_role",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "testapp.migrations.0027_alter_role_role",
+        "description": "testapp.migrations.0027_alter_role_role",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('testapp', '0026_alter_userform_matieres_alter_userform_role'),\n    ]\n    operations = [\n        migrations.AlterField(\n            model_name='role',\n            name='role',\n            field=models.CharField(default=None, max_length=50, null=True),\n        ),",
+        "detail": "testapp.migrations.0027_alter_role_role",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "testapp.migrations.0028_alter_userform_role",
+        "description": "testapp.migrations.0028_alter_userform_role",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('testapp', '0027_alter_role_role'),\n    ]\n    operations = [\n        migrations.AlterField(\n            model_name='userform',\n            name='role',\n            field=models.ForeignKey(default=None, null=True, on_delete=django.db.models.deletion.CASCADE, to='testapp.role'),\n        ),",
+        "detail": "testapp.migrations.0028_alter_userform_role",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "testapp.migrations.0029_alter_role_role",
+        "description": "testapp.migrations.0029_alter_role_role",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('testapp', '0028_alter_userform_role'),\n    ]\n    operations = [\n        migrations.AlterField(\n            model_name='role',\n            name='role',\n            field=models.CharField(default='', max_length=50),\n        ),",
+        "detail": "testapp.migrations.0029_alter_role_role",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "testapp.migrations.0030_alter_role_role_alter_userform_role",
+        "description": "testapp.migrations.0030_alter_role_role_alter_userform_role",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('testapp', '0029_alter_role_role'),\n    ]\n    operations = [\n        migrations.AlterField(\n            model_name='role',\n            name='role',\n            field=models.CharField(max_length=50),\n        ),",
+        "detail": "testapp.migrations.0030_alter_role_role_alter_userform_role",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "testapp.migrations.0031_alter_role_role",
+        "description": "testapp.migrations.0031_alter_role_role",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('testapp', '0030_alter_role_role_alter_userform_role'),\n    ]\n    operations = [\n        migrations.AlterField(\n            model_name='role',\n            name='role',\n            field=models.CharField(max_length=50, null=True),\n        ),",
+        "detail": "testapp.migrations.0031_alter_role_role",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "testapp.migrations.0032_role_date_alter_userform_role",
+        "description": "testapp.migrations.0032_role_date_alter_userform_role",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('testapp', '0031_alter_role_role'),\n    ]\n    operations = [\n        migrations.AddField(\n            model_name='role',\n            name='date',\n            field=models.DateField(auto_now=True),\n        ),",
+        "detail": "testapp.migrations.0032_role_date_alter_userform_role",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "testapp.migrations.0033_rename_date_role_date_ajout",
+        "description": "testapp.migrations.0033_rename_date_role_date_ajout",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('testapp', '0032_role_date_alter_userform_role'),\n    ]\n    operations = [\n        migrations.RenameField(\n            model_name='role',\n            old_name='date',\n            new_name='date_ajout',\n        ),",
+        "detail": "testapp.migrations.0033_rename_date_role_date_ajout",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "testapp.migrations.0034_remove_userform_role_alter_userform_classe_and_more",
+        "description": "testapp.migrations.0034_remove_userform_role_alter_userform_classe_and_more",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('testapp', '0033_rename_date_role_date_ajout'),\n    ]\n    operations = [\n        migrations.RemoveField(\n            model_name='userform',\n            name='role',\n        ),\n        migrations.AlterField(",
+        "detail": "testapp.migrations.0034_remove_userform_role_alter_userform_classe_and_more",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "testapp.migrations.0035_alter_userform_matieres",
+        "description": "testapp.migrations.0035_alter_userform_matieres",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('testapp', '0034_remove_userform_role_alter_userform_classe_and_more'),\n    ]\n    operations = [\n        migrations.AlterField(\n            model_name='userform',\n            name='matieres',\n            field=models.CharField(choices=[('maths', 'maths'), ('physique', 'physique'), ('chimie', 'chimie'), ('philo', 'philo'), ('français', 'français'), ('histoire', 'histoire'), ('biologie', 'biologie'), ('anglais', 'anglais'), ('geographie', 'geographie'), ('ecm', 'ecm')], default='', max_length=50),\n        ),",
+        "detail": "testapp.migrations.0035_alter_userform_matieres",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "testapp.migrations.0036_alter_userform_matieres",
+        "description": "testapp.migrations.0036_alter_userform_matieres",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('testapp', '0035_alter_userform_matieres'),\n    ]\n    operations = [\n        migrations.AlterField(\n            model_name='userform',\n            name='matieres',\n            field=models.CharField(choices=[('maths', 'maths'), ('physique', 'physique'), ('chimie', 'chimie'), ('philo', 'philo'), ('français', 'français'), ('histoire', 'histoire'), ('biologie', 'biologie'), ('anglais', 'anglais'), ('geographie', 'geographie'), ('ecm', 'ecm')], default=None, max_length=50, null=True),\n        ),",
+        "detail": "testapp.migrations.0036_alter_userform_matieres",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "testapp.migrations.0037_alter_userform_matieres",
+        "description": "testapp.migrations.0037_alter_userform_matieres",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('testapp', '0036_alter_userform_matieres'),\n    ]\n    operations = [\n        migrations.AlterField(\n            model_name='userform',\n            name='matieres',\n            field=models.CharField(blank=True, choices=[('maths', 'maths'), ('physique', 'physique'), ('chimie', 'chimie'), ('philo', 'philo'), ('français', 'français'), ('histoire', 'histoire'), ('biologie', 'biologie'), ('anglais', 'anglais'), ('geographie', 'geographie'), ('ecm', 'ecm')], max_length=50, null=True),\n        ),",
+        "detail": "testapp.migrations.0037_alter_userform_matieres",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "testapp.migrations.0038_alter_userform_ecole",
+        "description": "testapp.migrations.0038_alter_userform_ecole",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('testapp', '0037_alter_userform_matieres'),\n    ]\n    operations = [\n        migrations.AlterField(\n            model_name='userform',\n            name='ecole',\n            field=models.ForeignKey(blank=True, null=True, on_delete=django.db.models.deletion.CASCADE, to='testapp.ecole'),\n        ),",
+        "detail": "testapp.migrations.0038_alter_userform_ecole",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "testapp.migrations.0039_role_alter_userform_classe_alter_userform_matieres_and_more",
+        "description": "testapp.migrations.0039_role_alter_userform_classe_alter_userform_matieres_and_more",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('testapp', '0038_alter_userform_ecole'),\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='Role',\n            fields=[\n                ('id', models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),\n                ('role', models.CharField(max_length=50, null=True)),",
+        "detail": "testapp.migrations.0039_role_alter_userform_classe_alter_userform_matieres_and_more",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "testapp.migrations.0040_remove_userform_role_delete_role",
+        "description": "testapp.migrations.0040_remove_userform_role_delete_role",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('testapp', '0039_role_alter_userform_classe_alter_userform_matieres_and_more'),\n    ]\n    operations = [\n        migrations.RemoveField(\n            model_name='userform',\n            name='role',\n        ),\n        migrations.DeleteModel(",
+        "detail": "testapp.migrations.0040_remove_userform_role_delete_role",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "testapp.migrations.0041_devoir_date_aj",
+        "description": "testapp.migrations.0041_devoir_date_aj",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('testapp', '0040_remove_userform_role_delete_role'),\n    ]\n    operations = [\n        migrations.AddField(\n            model_name='devoir',\n            name='date_aj',\n            field=models.DateField(auto_now=True),\n        ),",
+        "detail": "testapp.migrations.0041_devoir_date_aj",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "testapp.migrations.0042_remove_devoir_date_aj_alter_userform_email",
+        "description": "testapp.migrations.0042_remove_devoir_date_aj_alter_userform_email",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('testapp', '0041_devoir_date_aj'),\n    ]\n    operations = [\n        migrations.RemoveField(\n            model_name='devoir',\n            name='date_aj',\n        ),\n        migrations.AlterField(",
+        "detail": "testapp.migrations.0042_remove_devoir_date_aj_alter_userform_email",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "testapp.migrations.0043_devoir_image_alter_devoir_fichier",
+        "description": "testapp.migrations.0043_devoir_image_alter_devoir_fichier",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('testapp', '0042_remove_devoir_date_aj_alter_userform_email'),\n    ]\n    operations = [\n        migrations.AddField(\n            model_name='devoir',\n            name='image',\n            field=models.FileField(blank=True, max_length=50, null=True, upload_to='pdf'),\n        ),",
+        "detail": "testapp.migrations.0043_devoir_image_alter_devoir_fichier",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "testapp.migrations.0044_alter_devoir_fichier_alter_devoir_image",
+        "description": "testapp.migrations.0044_alter_devoir_fichier_alter_devoir_image",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('testapp', '0043_devoir_image_alter_devoir_fichier'),\n    ]\n    operations = [\n        migrations.AlterField(\n            model_name='devoir',\n            name='fichier',\n            field=models.FileField(blank=True, null=True, upload_to='devoir'),\n        ),",
+        "detail": "testapp.migrations.0044_alter_devoir_fichier_alter_devoir_image",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "testapp.migrations.0045_alter_devoir_image",
+        "description": "testapp.migrations.0045_alter_devoir_image",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('testapp', '0044_alter_devoir_fichier_alter_devoir_image'),\n    ]\n    operations = [\n        migrations.AlterField(\n            model_name='devoir',\n            name='image',\n            field=models.ImageField(blank=True, null=True, upload_to='devoir'),\n        ),",
+        "detail": "testapp.migrations.0045_alter_devoir_image",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "testapp.migrations.0046_devoir_num_devoir",
+        "description": "testapp.migrations.0046_devoir_num_devoir",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('testapp', '0045_alter_devoir_image'),\n    ]\n    operations = [\n        migrations.AddField(\n            model_name='devoir',\n            name='num_devoir',\n            field=models.CharField(blank=True, max_length=50, null=True),\n        ),",
+        "detail": "testapp.migrations.0046_devoir_num_devoir",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "testapp.migrations.0047_remove_devoir_num_devoir_traiter",
+        "description": "testapp.migrations.0047_remove_devoir_num_devoir_traiter",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('testapp', '0046_devoir_num_devoir'),\n    ]\n    operations = [\n        migrations.RemoveField(\n            model_name='devoir',\n            name='num_devoir',\n        ),\n        migrations.CreateModel(",
+        "detail": "testapp.migrations.0047_remove_devoir_num_devoir_traiter",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "testapp.migrations.0048_traiter_image",
+        "description": "testapp.migrations.0048_traiter_image",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('testapp', '0047_remove_devoir_num_devoir_traiter'),\n    ]\n    operations = [\n        migrations.AddField(\n            model_name='traiter',\n            name='image',\n            field=models.ImageField(blank=True, null=True, upload_to='devoir'),\n        ),",
+        "detail": "testapp.migrations.0048_traiter_image",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "testapp.migrations.0049_devoir_num_devoir",
+        "description": "testapp.migrations.0049_devoir_num_devoir",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('testapp', '0048_traiter_image'),\n    ]\n    operations = [\n        migrations.AddField(\n            model_name='devoir',\n            name='num_devoir',\n            field=models.CharField(blank=True, max_length=50, null=True),\n        ),",
+        "detail": "testapp.migrations.0049_devoir_num_devoir",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "testapp.migrations.0050_alter_devoir_num_devoir",
+        "description": "testapp.migrations.0050_alter_devoir_num_devoir",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('testapp', '0049_devoir_num_devoir'),\n    ]\n    operations = [\n        migrations.AlterField(\n            model_name='devoir',\n            name='num_devoir',\n            field=models.CharField(blank=True, max_length=50),\n        ),",
+        "detail": "testapp.migrations.0050_alter_devoir_num_devoir",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "testapp.migrations.0051_rename_image_devoir_traiter_delete_traiter",
+        "description": "testapp.migrations.0051_rename_image_devoir_traiter_delete_traiter",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('testapp', '0050_alter_devoir_num_devoir'),\n    ]\n    operations = [\n        migrations.RenameField(\n            model_name='devoir',\n            old_name='image',\n            new_name='traiter',\n        ),",
+        "detail": "testapp.migrations.0051_rename_image_devoir_traiter_delete_traiter",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "testapp.migrations.0052_devoir_note",
+        "description": "testapp.migrations.0052_devoir_note",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('testapp', '0051_rename_image_devoir_traiter_delete_traiter'),\n    ]\n    operations = [\n        migrations.AddField(\n            model_name='devoir',\n            name='note',\n            field=models.FloatField(blank=True, null=True),\n        ),",
+        "detail": "testapp.migrations.0052_devoir_note",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "testapp.migrations.0053_devoir_statut",
+        "description": "testapp.migrations.0053_devoir_statut",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('testapp', '0052_devoir_note'),\n    ]\n    operations = [\n        migrations.AddField(\n            model_name='devoir',\n            name='statut',\n            field=models.CharField(blank=True, choices=[('traiter', 'traiter'), ('enoncer', 'enoncer')], max_length=50, null=True),\n        ),",
+        "detail": "testapp.migrations.0053_devoir_statut",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "testapp.migrations.0054_remove_devoir_note_remove_devoir_traiter_traiter",
+        "description": "testapp.migrations.0054_remove_devoir_note_remove_devoir_traiter_traiter",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('testapp', '0053_devoir_statut'),\n    ]\n    operations = [\n        migrations.RemoveField(\n            model_name='devoir',\n            name='note',\n        ),\n        migrations.RemoveField(",
+        "detail": "testapp.migrations.0054_remove_devoir_note_remove_devoir_traiter_traiter",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "testapp.migrations.0055_devoir_image_sujet",
+        "description": "testapp.migrations.0055_devoir_image_sujet",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('testapp', '0054_remove_devoir_note_remove_devoir_traiter_traiter'),\n    ]\n    operations = [\n        migrations.AddField(\n            model_name='devoir',\n            name='image_sujet',\n            field=models.ImageField(blank=True, null=True, upload_to='devoir'),\n        ),",
+        "detail": "testapp.migrations.0055_devoir_image_sujet",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "testapp.migrations.0056_alter_traiter_statut",
+        "description": "testapp.migrations.0056_alter_traiter_statut",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('testapp', '0055_devoir_image_sujet'),\n    ]\n    operations = [\n        migrations.AlterField(\n            model_name='traiter',\n            name='statut',\n            field=models.CharField(blank=True, choices=[('traiter', 'traiter'), ('enoncer', 'enoncer'), ('noter', 'noter')], max_length=50, null=True),\n        ),",
+        "detail": "testapp.migrations.0056_alter_traiter_statut",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "testapp.migrations.0057_traiter_date_ajout",
+        "description": "testapp.migrations.0057_traiter_date_ajout",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('testapp', '0056_alter_traiter_statut'),\n    ]\n    operations = [\n        migrations.AddField(\n            model_name='traiter',\n            name='date_ajout',\n            field=models.DateField(auto_now=True),\n        ),",
+        "detail": "testapp.migrations.0057_traiter_date_ajout",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "testapp.migrations.0058_traiter_email",
+        "description": "testapp.migrations.0058_traiter_email",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('testapp', '0057_traiter_date_ajout'),\n    ]\n    operations = [\n        migrations.AddField(\n            model_name='traiter',\n            name='email',\n            field=models.EmailField(blank=True, max_length=50),\n        ),",
+        "detail": "testapp.migrations.0058_traiter_email",
+        "documentation": {}
+    },
+    {
+        "label": "DisplayUser",
+        "kind": 6,
+        "importPath": "testapp.admin",
+        "description": "testapp.admin",
+        "peekOfCode": "class DisplayUser(admin.ModelAdmin):\n    list_display=('email','last_name','first_name','classe','date_aj','matieres','ecole')\nclass DisplayCours(admin.ModelAdmin):\n    list_display=('matieres','classe','prof','date_ajout','cours','ecole')\nclass DisplayDevoir(admin.ModelAdmin):\n    list_display=('matieres','classe','date_ajout','fichier','image_sujet','num_devoir','ecole')\nclass DisplayTraiter(admin.ModelAdmin):\n    list_display=('matieres','classe','date_ajout','traiter','note','num_devoir','ecole','statut')\nadmin.site.register(UserForm,DisplayUser)\nadmin.site.register(Cours,DisplayCours)",
+        "detail": "testapp.admin",
+        "documentation": {}
+    },
+    {
+        "label": "DisplayCours",
+        "kind": 6,
+        "importPath": "testapp.admin",
+        "description": "testapp.admin",
+        "peekOfCode": "class DisplayCours(admin.ModelAdmin):\n    list_display=('matieres','classe','prof','date_ajout','cours','ecole')\nclass DisplayDevoir(admin.ModelAdmin):\n    list_display=('matieres','classe','date_ajout','fichier','image_sujet','num_devoir','ecole')\nclass DisplayTraiter(admin.ModelAdmin):\n    list_display=('matieres','classe','date_ajout','traiter','note','num_devoir','ecole','statut')\nadmin.site.register(UserForm,DisplayUser)\nadmin.site.register(Cours,DisplayCours)\nadmin.site.register(Classes)\nadmin.site.register(Ecole)",
+        "detail": "testapp.admin",
+        "documentation": {}
+    },
+    {
+        "label": "DisplayDevoir",
+        "kind": 6,
+        "importPath": "testapp.admin",
+        "description": "testapp.admin",
+        "peekOfCode": "class DisplayDevoir(admin.ModelAdmin):\n    list_display=('matieres','classe','date_ajout','fichier','image_sujet','num_devoir','ecole')\nclass DisplayTraiter(admin.ModelAdmin):\n    list_display=('matieres','classe','date_ajout','traiter','note','num_devoir','ecole','statut')\nadmin.site.register(UserForm,DisplayUser)\nadmin.site.register(Cours,DisplayCours)\nadmin.site.register(Classes)\nadmin.site.register(Ecole)\nadmin.site.register(Matieres)\nadmin.site.register(Traiter,DisplayTraiter)",
+        "detail": "testapp.admin",
+        "documentation": {}
+    },
+    {
+        "label": "DisplayTraiter",
+        "kind": 6,
+        "importPath": "testapp.admin",
+        "description": "testapp.admin",
+        "peekOfCode": "class DisplayTraiter(admin.ModelAdmin):\n    list_display=('matieres','classe','date_ajout','traiter','note','num_devoir','ecole','statut')\nadmin.site.register(UserForm,DisplayUser)\nadmin.site.register(Cours,DisplayCours)\nadmin.site.register(Classes)\nadmin.site.register(Ecole)\nadmin.site.register(Matieres)\nadmin.site.register(Traiter,DisplayTraiter)\nadmin.site.register(Devoir,DisplayDevoir)\n# admin.site.register(Role)",
+        "detail": "testapp.admin",
+        "documentation": {}
+    },
+    {
+        "label": "TestappConfig",
+        "kind": 6,
+        "importPath": "testapp.apps",
+        "description": "testapp.apps",
+        "peekOfCode": "class TestappConfig(AppConfig):\n    default_auto_field = 'django.db.models.BigAutoField'\n    name = 'testapp'",
+        "detail": "testapp.apps",
+        "documentation": {}
+    },
+    {
+        "label": "up_form",
+        "kind": 6,
+        "importPath": "testapp.forms",
+        "description": "testapp.forms",
+        "peekOfCode": "class up_form(UserCreationForm):\n    class Meta:\n        model=UserForm\n        fields=('email','password1','password2','phone','username','ecole')\nclass LoginForm(forms.Form):\n    email =forms.CharField(max_length=100,label='email')\n    password=forms.CharField(max_length=40, required=True,label=\"Mot de passe\")\nclass Add_coursForm(forms.ModelForm):\n    class Meta:\n        model = Cours",
+        "detail": "testapp.forms",
+        "documentation": {}
+    },
+    {
+        "label": "LoginForm",
+        "kind": 6,
+        "importPath": "testapp.forms",
+        "description": "testapp.forms",
+        "peekOfCode": "class LoginForm(forms.Form):\n    email =forms.CharField(max_length=100,label='email')\n    password=forms.CharField(max_length=40, required=True,label=\"Mot de passe\")\nclass Add_coursForm(forms.ModelForm):\n    class Meta:\n        model = Cours\n        fields='__all__'\nclass UpdateCours(forms.ModelForm):\n    class Meta:\n        model = Cours",
+        "detail": "testapp.forms",
+        "documentation": {}
+    },
+    {
+        "label": "Add_coursForm",
+        "kind": 6,
+        "importPath": "testapp.forms",
+        "description": "testapp.forms",
+        "peekOfCode": "class Add_coursForm(forms.ModelForm):\n    class Meta:\n        model = Cours\n        fields='__all__'\nclass UpdateCours(forms.ModelForm):\n    class Meta:\n        model = Cours\n        fields = '__all__'\nclass UpdateEffectif(forms.ModelForm):\n    class Meta:",
+        "detail": "testapp.forms",
+        "documentation": {}
+    },
+    {
+        "label": "UpdateCours",
+        "kind": 6,
+        "importPath": "testapp.forms",
+        "description": "testapp.forms",
+        "peekOfCode": "class UpdateCours(forms.ModelForm):\n    class Meta:\n        model = Cours\n        fields = '__all__'\nclass UpdateEffectif(forms.ModelForm):\n    class Meta:\n        model = UserForm\n        # fields='__all__'\n        fields = ('classe','ecole','matieres','username','email','phone','groups')\nclass UpdateDevoir(forms.ModelForm):",
+        "detail": "testapp.forms",
+        "documentation": {}
+    },
+    {
+        "label": "UpdateEffectif",
+        "kind": 6,
+        "importPath": "testapp.forms",
+        "description": "testapp.forms",
+        "peekOfCode": "class UpdateEffectif(forms.ModelForm):\n    class Meta:\n        model = UserForm\n        # fields='__all__'\n        fields = ('classe','ecole','matieres','username','email','phone','groups')\nclass UpdateDevoir(forms.ModelForm):\n    class Meta:\n        model = Devoir\n        fields = '__all__'\nclass DevoirForm(forms.ModelForm):",
+        "detail": "testapp.forms",
+        "documentation": {}
+    },
+    {
+        "label": "UpdateDevoir",
+        "kind": 6,
+        "importPath": "testapp.forms",
+        "description": "testapp.forms",
+        "peekOfCode": "class UpdateDevoir(forms.ModelForm):\n    class Meta:\n        model = Devoir\n        fields = '__all__'\nclass DevoirForm(forms.ModelForm):\n    class Meta:\n        model = Devoir\n        fields='__all__'\nclass FormTraiter(forms.ModelForm):\n    class Meta:",
+        "detail": "testapp.forms",
+        "documentation": {}
+    },
+    {
+        "label": "DevoirForm",
+        "kind": 6,
+        "importPath": "testapp.forms",
+        "description": "testapp.forms",
+        "peekOfCode": "class DevoirForm(forms.ModelForm):\n    class Meta:\n        model = Devoir\n        fields='__all__'\nclass FormTraiter(forms.ModelForm):\n    class Meta:\n        model = Traiter\n        fields = ('traiter','num_devoir','classe','matieres','ecole','statut','email')\nclass UpdateTraiter(forms.ModelForm):\n    class Meta:",
+        "detail": "testapp.forms",
+        "documentation": {}
+    },
+    {
+        "label": "FormTraiter",
+        "kind": 6,
+        "importPath": "testapp.forms",
+        "description": "testapp.forms",
+        "peekOfCode": "class FormTraiter(forms.ModelForm):\n    class Meta:\n        model = Traiter\n        fields = ('traiter','num_devoir','classe','matieres','ecole','statut','email')\nclass UpdateTraiter(forms.ModelForm):\n    class Meta:\n        model = Traiter\n        fields = '__all__'",
+        "detail": "testapp.forms",
+        "documentation": {}
+    },
+    {
+        "label": "UpdateTraiter",
+        "kind": 6,
+        "importPath": "testapp.forms",
+        "description": "testapp.forms",
+        "peekOfCode": "class UpdateTraiter(forms.ModelForm):\n    class Meta:\n        model = Traiter\n        fields = '__all__'",
+        "detail": "testapp.forms",
+        "documentation": {}
+    },
+    {
+        "label": "Ecole",
+        "kind": 6,
+        "importPath": "testapp.models",
+        "description": "testapp.models",
+        "peekOfCode": "class Ecole(models.Model):\n    ecoles=models.CharField(max_length=50,null=True)\n    def __str__(self):\n        return self.ecoles\nclass Classes(models.Model):\n    classe=models.CharField(max_length=50, default=\"\")\n    def __str__(self):\n        return self.classe\nclass Matieres(models.Model):\n     matieres=models.CharField(max_length=50)",
+        "detail": "testapp.models",
+        "documentation": {}
+    },
+    {
+        "label": "Classes",
+        "kind": 6,
+        "importPath": "testapp.models",
+        "description": "testapp.models",
+        "peekOfCode": "class Classes(models.Model):\n    classe=models.CharField(max_length=50, default=\"\")\n    def __str__(self):\n        return self.classe\nclass Matieres(models.Model):\n     matieres=models.CharField(max_length=50)\n     def __str__(self):\n        return self.matieres\nclass Devoir(models.Model):\n     statuts={",
+        "detail": "testapp.models",
+        "documentation": {}
+    },
+    {
+        "label": "Matieres",
+        "kind": 6,
+        "importPath": "testapp.models",
+        "description": "testapp.models",
+        "peekOfCode": "class Matieres(models.Model):\n     matieres=models.CharField(max_length=50)\n     def __str__(self):\n        return self.matieres\nclass Devoir(models.Model):\n     statuts={\n         'traiter':'traiter',\n         'enoncer':'enoncer'\n     }\n     classe=models.ForeignKey(Classes,on_delete=models.CASCADE)",
+        "detail": "testapp.models",
+        "documentation": {}
+    },
+    {
+        "label": "Devoir",
+        "kind": 6,
+        "importPath": "testapp.models",
+        "description": "testapp.models",
+        "peekOfCode": "class Devoir(models.Model):\n     statuts={\n         'traiter':'traiter',\n         'enoncer':'enoncer'\n     }\n     classe=models.ForeignKey(Classes,on_delete=models.CASCADE)\n     ecole=models.ForeignKey(Ecole,on_delete=models.CASCADE)\n     matieres=models.ForeignKey(Matieres, on_delete=models.CASCADE)\n     date_ajout=models.DateField(auto_now=True, auto_now_add=False)\n     fichier =models.FileField(upload_to='devoir', max_length=100,null=True,blank=True)",
+        "detail": "testapp.models",
+        "documentation": {}
+    },
+    {
+        "label": "Traiter",
+        "kind": 6,
+        "importPath": "testapp.models",
+        "description": "testapp.models",
+        "peekOfCode": "class Traiter(models.Model):\n     statuts={\n         'traiter':'traiter',\n         'enoncer':'enoncer',\n         'noter':'noter'\n     }\n     classe=models.ForeignKey(Classes,on_delete=models.CASCADE)\n     ecole=models.ForeignKey(Ecole,on_delete=models.CASCADE)\n     matieres=models.ForeignKey(Matieres, on_delete=models.CASCADE)\n     traiter=models.ImageField(upload_to=\"devoir\",null=True,blank=True)",
+        "detail": "testapp.models",
+        "documentation": {}
+    },
+    {
+        "label": "Cours",
+        "kind": 6,
+        "importPath": "testapp.models",
+        "description": "testapp.models",
+        "peekOfCode": "class Cours(models.Model):\n    classe=models.ForeignKey(Classes,on_delete=models.CASCADE)\n    ecole=models.ForeignKey(Ecole,on_delete=models.CASCADE,null=False,default=\"\")\n    prof=models.CharField(max_length=50,null=False)\n    matieres=models.ForeignKey(Matieres, on_delete=models.CASCADE)\n    titre=models.CharField(max_length=50)\n    date_ajout=models.DateField(auto_now=True, auto_now_add=False)\n    cours =models.FileField(upload_to='pdf', max_length=100,null=True)\n    phone = models.IntegerField(unique=False,null=True)\n# MODELS INSCRIPTIONS",
+        "detail": "testapp.models",
+        "documentation": {}
+    },
+    {
+        "label": "UserForm",
+        "kind": 6,
+        "importPath": "testapp.models",
+        "description": "testapp.models",
+        "peekOfCode": "class UserForm(AbstractUser):\n    classe=models.ForeignKey(Classes,on_delete=models.CASCADE,null=True,blank=True)\n    ecole=models.ForeignKey(Ecole,on_delete=models.CASCADE,null=True,blank=True)\n    matieres=models.ForeignKey(Matieres, on_delete=models.CASCADE,null=True,blank=True)\n    email = models.EmailField(max_length=50,unique=True)\n    phone = models.IntegerField(unique=True,null=True)\n    date_aj=models.DateField(auto_now=True, auto_now_add=False)\n    username=models.CharField(unique=False,blank=True,null=True,max_length=50)\n    USERNAME_FIELD='email'\n    REQUIRED_FIELDS=['username']",
+        "detail": "testapp.models",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "testapp.urls",
+        "description": "testapp.urls",
+        "peekOfCode": "urlpatterns = [\n    path('',register, name=\"register\"),\n    path('connexion',connexion, name=\"connexion\"),\n    path('acceuil',acceuil, name=\"acceuil\"),\n    path('cours',cours, name=\"cours\"),\n    path('Add_cours',Add_cours,name=\"Add_cours\"),\n    path('detailsCours/<int:myid>',detailsCours,name='detailsCours'),\n    path('modifierCours/<int:myid>',modifierCours,name=\"modifierCours\"),\n    path('deleteCours/<int:myid>',deleteCours,name=\"deleteCours\"),\n    path('deconnexion',deconnexion, name='deconnexion'),",
+        "detail": "testapp.urls",
+        "documentation": {}
+    },
+    {
+        "label": "register",
+        "kind": 2,
+        "importPath": "testapp.views",
+        "description": "testapp.views",
+        "peekOfCode": "def register(request):\n    if request.method==\"POST\":\n        form=up_form(request.POST)\n        if form.is_valid():\n            form.save()\n            return redirect(connexion)\n    else:\n        form=up_form()\n    context ={\n        'form':form,",
+        "detail": "testapp.views",
+        "documentation": {}
+    },
+    {
+        "label": "connexion",
+        "kind": 2,
+        "importPath": "testapp.views",
+        "description": "testapp.views",
+        "peekOfCode": "def connexion(request):\n        group1= request.user.groups.filter(name='ELEVES')\n        group2=request.user.groups.filter(name='DIRECTION')\n        group3=request.user.groups.filter(name='PROFESSEURS')\n        group4=request.user.groups.filter(name='GESTIONNAIRE DU SITE')\n        form = LoginForm()\n        message = ''\n        if request.method==\"POST\":\n            form=LoginForm(request.POST)\n        if form.is_valid():",
+        "detail": "testapp.views",
+        "documentation": {}
+    },
+    {
+        "label": "acceuil",
+        "kind": 2,
+        "importPath": "testapp.views",
+        "description": "testapp.views",
+        "peekOfCode": "def acceuil(request):\n    number = request.session.get('visite',0)+1\n    request.session['visite']=number\n    return render(request,'pages/acceuil.html',{'number':number})\n# ajout d'un cours\n@login_required(login_url='/connexion')\n@permission_required('testapp.add_cours',raise_exception=True)\ndef Add_cours(request):\n    if request.method ==\"POST\":\n        form =Add_coursForm(request.POST,request.FILES)",
+        "detail": "testapp.views",
+        "documentation": {}
+    },
+    {
+        "label": "Add_cours",
+        "kind": 2,
+        "importPath": "testapp.views",
+        "description": "testapp.views",
+        "peekOfCode": "def Add_cours(request):\n    if request.method ==\"POST\":\n        form =Add_coursForm(request.POST,request.FILES)\n        if form.is_valid():\n            ecole_user= form.cleaned_data['ecole']\n            classe_user = form.cleaned_data['classe']\n            matieres_user=form.cleaned_data['matieres']\n            if request.user.ecole == ecole_user and request.user.classe ==classe_user and request.user.matieres == matieres_user :\n                form.save()\n                return redirect('cours')",
+        "detail": "testapp.views",
+        "documentation": {}
+    },
+    {
+        "label": "cours",
+        "kind": 2,
+        "importPath": "testapp.views",
+        "description": "testapp.views",
+        "peekOfCode": "def cours(request):\n    group1= request.user.groups.filter(name='ELEVES')\n    group2=request.user.groups.filter(name='DIRECTION')\n    group3=request.user.groups.filter(name='PROFESSEURS')\n    group4=request.user.groups.filter(name='GESTIONNAIRE DU SITE')\n    if request.user.is_authenticated:\n            if group1:\n                s=request.user.classe\n                t= Cours.objects.all().filter(classe=s,ecole=request.user.ecole)\n                return render(request,'pages/cours.html',{'t':t})",
+        "detail": "testapp.views",
+        "documentation": {}
+    },
+    {
+        "label": "detailsCours",
+        "kind": 2,
+        "importPath": "testapp.views",
+        "description": "testapp.views",
+        "peekOfCode": "def detailsCours(request,myid):\n    req= Cours.objects.get(id=myid)\n    return render(request,'pages/detailsCours.html',{'req':req})\n@permission_required('testapp.change_cours',raise_exception=True)\ndef modifierCours(request,myid):\n    req=Cours.objects.get(id=myid)\n    form=UpdateCours(instance=req)\n    if request.method==\"POST\":\n        form = UpdateCours(request.POST,request.FILES,instance=req)\n        if form.is_valid():",
+        "detail": "testapp.views",
+        "documentation": {}
+    },
+    {
+        "label": "modifierCours",
+        "kind": 2,
+        "importPath": "testapp.views",
+        "description": "testapp.views",
+        "peekOfCode": "def modifierCours(request,myid):\n    req=Cours.objects.get(id=myid)\n    form=UpdateCours(instance=req)\n    if request.method==\"POST\":\n        form = UpdateCours(request.POST,request.FILES,instance=req)\n        if form.is_valid():\n            form.save()\n            messages.success(request,'Modification reusi')\n            return redirect('cours')\n    return render(request,'pages/modifierCours.html',{'form':form})",
+        "detail": "testapp.views",
+        "documentation": {}
+    },
+    {
+        "label": "deleteCours",
+        "kind": 2,
+        "importPath": "testapp.views",
+        "description": "testapp.views",
+        "peekOfCode": "def deleteCours(request,myid):\n    obj=Cours.objects.get(id=myid)\n    obj.delete()\n    messages.success(request,'delete success')\n    return redirect('cours')\n@login_required(login_url='/connexion')\n@permission_required('testapp.delete_cours',raise_exception=True)\ndef effectifs(request):\n    group2=request.user.groups.filter(name='DIRECTION')\n    group3=request.user.groups.filter(name='PROFESSEURS')",
+        "detail": "testapp.views",
+        "documentation": {}
+    },
+    {
+        "label": "effectifs",
+        "kind": 2,
+        "importPath": "testapp.views",
+        "description": "testapp.views",
+        "peekOfCode": "def effectifs(request):\n    group2=request.user.groups.filter(name='DIRECTION')\n    group3=request.user.groups.filter(name='PROFESSEURS')\n    group4=request.user.groups.filter(name='GESTIONNAIRE DU SITE')\n    if request.user.is_authenticated:\n        if group2 or group4:\n            req=request.user.ecole\n            t= UserForm.objects.all().filter(ecole=req)\n            return render(request,'pages/effectifs.html',{'t':t})\n        elif group3:",
+        "detail": "testapp.views",
+        "documentation": {}
+    },
+    {
+        "label": "modifiereffectifs",
+        "kind": 2,
+        "importPath": "testapp.views",
+        "description": "testapp.views",
+        "peekOfCode": "def modifiereffectifs(request,myid):\n    req=UserForm.objects.get(id=myid)\n    form=UpdateEffectif(instance=req)\n    if request.method==\"POST\":\n            form = UpdateEffectif(request.POST,instance=req)\n            if form.is_valid() :\n                form.save()\n                messages.success(request,'Modification reusi')\n                return redirect('effectifs')\n    return render(request,'pages/modifiereffectifs.html',{'form':form})",
+        "detail": "testapp.views",
+        "documentation": {}
+    },
+    {
+        "label": "deleteeffectifs",
+        "kind": 2,
+        "importPath": "testapp.views",
+        "description": "testapp.views",
+        "peekOfCode": "def deleteeffectifs(request,myid):\n    obj=UserForm.objects.get(id=myid)\n    obj.delete()\n    messages.success(request,'delete success')\n    return redirect('effectifs')\n# Devoir\ndef devoir(request):\n    group1= request.user.groups.filter(name='ELEVES')\n    if group1:\n        req = Devoir.objects.all().filter(ecole=request.user.ecole,classe=request.user.classe)",
+        "detail": "testapp.views",
+        "documentation": {}
+    },
+    {
+        "label": "devoir",
+        "kind": 2,
+        "importPath": "testapp.views",
+        "description": "testapp.views",
+        "peekOfCode": "def devoir(request):\n    group1= request.user.groups.filter(name='ELEVES')\n    if group1:\n        req = Devoir.objects.all().filter(ecole=request.user.ecole,classe=request.user.classe)\n        return render(request,'pages/devoir.html',{'req':req})\n    elif request.user.groups.filter(name='DIRECTION'):\n         req = Devoir.objects.all().filter(ecole=request.user.ecole)\n         return render(request,'pages/devoir.html',{'req':req})\n    elif request.user.groups.filter(name='PROFESSEURS'):\n        req = Devoir.objects.all().filter(ecole=request.user.ecole,classe=request.user.classe)",
+        "detail": "testapp.views",
+        "documentation": {}
+    },
+    {
+        "label": "Add_devoir",
+        "kind": 2,
+        "importPath": "testapp.views",
+        "description": "testapp.views",
+        "peekOfCode": "def Add_devoir(request):\n    if request.method == \"POST\":\n        form = DevoirForm(request.POST,request.FILES)\n        if form.is_valid():\n            form.save()\n            return redirect('devoir')\n    else:\n        form = DevoirForm()\n    return render(request,'pages/Add_devoirs.html',{'form':form})\ndef modifierDevoirs(request,myid):",
+        "detail": "testapp.views",
+        "documentation": {}
+    },
+    {
+        "label": "modifierDevoirs",
+        "kind": 2,
+        "importPath": "testapp.views",
+        "description": "testapp.views",
+        "peekOfCode": "def modifierDevoirs(request,myid):\n    req=Devoir.objects.get(id=myid)\n    form=UpdateDevoir(instance=req)\n    if request.method==\"POST\":\n            form = UpdateDevoir(request.POST,request.FILES,instance=req)\n            if form.is_valid() :\n                form.save()\n                messages.success(request,'Modification reusi')\n                return redirect('devoir')\n    else:",
+        "detail": "testapp.views",
+        "documentation": {}
+    },
+    {
+        "label": "deleteDevoirs",
+        "kind": 2,
+        "importPath": "testapp.views",
+        "description": "testapp.views",
+        "peekOfCode": "def deleteDevoirs(request,myid):\n      delet=Devoir.objects.get(id=myid)\n      delet.delete()\n      messages.success(request,\"Suppression reusi\")\n      return redirect('devoir')\n# traiter\ndef traiterDevoir(request):\n    if request.method==\"POST\":\n            form = FormTraiter(request.POST,request.FILES)\n            if form.is_valid() :",
+        "detail": "testapp.views",
+        "documentation": {}
+    },
+    {
+        "label": "traiterDevoir",
+        "kind": 2,
+        "importPath": "testapp.views",
+        "description": "testapp.views",
+        "peekOfCode": "def traiterDevoir(request):\n    if request.method==\"POST\":\n            form = FormTraiter(request.POST,request.FILES)\n            if form.is_valid() :\n                form.save()\n                messages.success(request,'Modification reusi')\n                return redirect('devoir')\n    else:\n        form=FormTraiter()\n        return render(request,'pages/Add_traiter.html',{'form':form})",
+        "detail": "testapp.views",
+        "documentation": {}
+    },
+    {
+        "label": "traiter",
+        "kind": 2,
+        "importPath": "testapp.views",
+        "description": "testapp.views",
+        "peekOfCode": "def traiter(request):\n    group1= request.user.groups.filter(name='ELEVES')\n    if group1:\n        req = Traiter.objects.all().filter(ecole=request.user.ecole,classe=request.user.classe,email= request.user.email)\n        return render(request,'pages/traiter.html',{'req':req})\n    elif request.user.groups.filter(name='DIRECTION'):\n         req = Traiter.objects.all().filter(ecole=request.user.ecole)\n         return render(request,'pages/traiter.html',{'req':req})\n    elif request.user.groups.filter(name='PROFESSEURS'):\n        req = Traiter.objects.all().filter(ecole=request.user.ecole,classe=request.user.classe)",
+        "detail": "testapp.views",
+        "documentation": {}
+    },
+    {
+        "label": "updateTraiter",
+        "kind": 2,
+        "importPath": "testapp.views",
+        "description": "testapp.views",
+        "peekOfCode": "def updateTraiter(request,id_traiter):\n    req= Traiter.objects.get(id=id_traiter)\n    form = UpdateTraiter(instance = req)\n    if request.method == \"POST\":\n        form = UpdateTraiter(request.POST,request.FILES,instance =req)\n        if form.is_valid():\n            form.save()\n            return redirect('traiter')\n        # else:\n        #     form=updateTraiter()",
+        "detail": "testapp.views",
+        "documentation": {}
+    },
+    {
+        "label": "deleteTraiter",
+        "kind": 2,
+        "importPath": "testapp.views",
+        "description": "testapp.views",
+        "peekOfCode": "def deleteTraiter(request,id_traiter):\n    det = Traiter.objects.get(id=id_traiter)\n    det.delete()\n    return redirect('traiter')\ndef deconnexion(request):\n    logout(request)\n    return redirect(connexion)",
+        "detail": "testapp.views",
+        "documentation": {}
+    },
+    {
+        "label": "deconnexion",
+        "kind": 2,
+        "importPath": "testapp.views",
+        "description": "testapp.views",
+        "peekOfCode": "def deconnexion(request):\n    logout(request)\n    return redirect(connexion)",
+        "detail": "testapp.views",
+        "documentation": {}
+    },
+    {
+        "label": "application",
+        "kind": 5,
+        "importPath": "testdjango.asgi",
+        "description": "testdjango.asgi",
+        "peekOfCode": "application = get_asgi_application()",
+        "detail": "testdjango.asgi",
+        "documentation": {}
+    },
+    {
+        "label": "BASE_DIR",
+        "kind": 5,
+        "importPath": "testdjango.settings",
+        "description": "testdjango.settings",
+        "peekOfCode": "BASE_DIR = Path(__file__).resolve().parent.parent\n# Quick-start development settings - unsuitable for production\n# See https://docs.djangoproject.com/en/5.0/howto/deployment/checklist/\n# SECURITY WARNING: keep the secret key used in production secret!\nSECRET_KEY = 'django-insecure-n_h3(0^ur=m)kd1pei!9csoiz=n380n93$l^d6-$@qt*^rz!(a'\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [",
+        "detail": "testdjango.settings",
+        "documentation": {}
+    },
+    {
+        "label": "SECRET_KEY",
+        "kind": 5,
+        "importPath": "testdjango.settings",
+        "description": "testdjango.settings",
+        "peekOfCode": "SECRET_KEY = 'django-insecure-n_h3(0^ur=m)kd1pei!9csoiz=n380n93$l^d6-$@qt*^rz!(a'\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',",
+        "detail": "testdjango.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DEBUG",
+        "kind": 5,
+        "importPath": "testdjango.settings",
+        "description": "testdjango.settings",
+        "peekOfCode": "DEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',",
+        "detail": "testdjango.settings",
+        "documentation": {}
+    },
+    {
+        "label": "ALLOWED_HOSTS",
+        "kind": 5,
+        "importPath": "testdjango.settings",
+        "description": "testdjango.settings",
+        "peekOfCode": "ALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n    'testapp',",
+        "detail": "testdjango.settings",
+        "documentation": {}
+    },
+    {
+        "label": "INSTALLED_APPS",
+        "kind": 5,
+        "importPath": "testdjango.settings",
+        "description": "testdjango.settings",
+        "peekOfCode": "INSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n    'testapp',\n    'Direction',\n    'Prof'",
+        "detail": "testdjango.settings",
+        "documentation": {}
+    },
+    {
+        "label": "MIDDLEWARE",
+        "kind": 5,
+        "importPath": "testdjango.settings",
+        "description": "testdjango.settings",
+        "peekOfCode": "MIDDLEWARE = [\n    'django.middleware.security.SecurityMiddleware',\n    'django.contrib.sessions.middleware.SessionMiddleware',\n    'django.middleware.common.CommonMiddleware',\n    'django.middleware.csrf.CsrfViewMiddleware',\n    'django.contrib.auth.middleware.AuthenticationMiddleware',\n    'django.contrib.messages.middleware.MessageMiddleware',\n    'django.middleware.clickjacking.XFrameOptionsMiddleware',\n]\nROOT_URLCONF = 'testdjango.urls'",
+        "detail": "testdjango.settings",
+        "documentation": {}
+    },
+    {
+        "label": "ROOT_URLCONF",
+        "kind": 5,
+        "importPath": "testdjango.settings",
+        "description": "testdjango.settings",
+        "peekOfCode": "ROOT_URLCONF = 'testdjango.urls'\nTEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': [BASE_DIR/'templates'],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.debug',\n                'django.template.context_processors.request',",
+        "detail": "testdjango.settings",
+        "documentation": {}
+    },
+    {
+        "label": "TEMPLATES",
+        "kind": 5,
+        "importPath": "testdjango.settings",
+        "description": "testdjango.settings",
+        "peekOfCode": "TEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': [BASE_DIR/'templates'],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.debug',\n                'django.template.context_processors.request',\n                'django.contrib.auth.context_processors.auth',",
+        "detail": "testdjango.settings",
+        "documentation": {}
+    },
+    {
+        "label": "WSGI_APPLICATION",
+        "kind": 5,
+        "importPath": "testdjango.settings",
+        "description": "testdjango.settings",
+        "peekOfCode": "WSGI_APPLICATION = 'testdjango.wsgi.application'\n# Database\n# https://docs.djangoproject.com/en/5.0/ref/settings/#databases\nDATABASES = {\n    'default': {\n        'ENGINE': 'django.db.backends.sqlite3',\n            'NAME': BASE_DIR / 'db.sqlite3',\n    }\n}\n# Password validation",
+        "detail": "testdjango.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DATABASES",
+        "kind": 5,
+        "importPath": "testdjango.settings",
+        "description": "testdjango.settings",
+        "peekOfCode": "DATABASES = {\n    'default': {\n        'ENGINE': 'django.db.backends.sqlite3',\n            'NAME': BASE_DIR / 'db.sqlite3',\n    }\n}\n# Password validation\n# https://docs.djangoproject.com/en/5.0/ref/settings/#auth-password-validators\nAUTH_PASSWORD_VALIDATORS = [\n    {",
+        "detail": "testdjango.settings",
+        "documentation": {}
+    },
+    {
+        "label": "AUTH_PASSWORD_VALIDATORS",
+        "kind": 5,
+        "importPath": "testdjango.settings",
+        "description": "testdjango.settings",
+        "peekOfCode": "AUTH_PASSWORD_VALIDATORS = [\n    {\n        'NAME': 'django.contrib.auth.password_validation.UserAttributeSimilarityValidator',\n    },\n    {\n        'NAME': 'django.contrib.auth.password_validation.MinimumLengthValidator',\n    },\n    {\n        'NAME': 'django.contrib.auth.password_validation.CommonPasswordValidator',\n    },",
+        "detail": "testdjango.settings",
+        "documentation": {}
+    },
+    {
+        "label": "LANGUAGE_CODE",
+        "kind": 5,
+        "importPath": "testdjango.settings",
+        "description": "testdjango.settings",
+        "peekOfCode": "LANGUAGE_CODE = 'fr-fr'\nTIME_ZONE = 'UTC'\nUSE_I18N = True\nUSE_TZ = True\nAUTH_USER_MODEL ='testapp.UserForm'\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/5.0/howto/static-files/\nSTATIC_URL = 'static/'\nSTATICFILES_DIRS=[\n    BASE_DIR/'static/'",
+        "detail": "testdjango.settings",
+        "documentation": {}
+    },
+    {
+        "label": "TIME_ZONE",
+        "kind": 5,
+        "importPath": "testdjango.settings",
+        "description": "testdjango.settings",
+        "peekOfCode": "TIME_ZONE = 'UTC'\nUSE_I18N = True\nUSE_TZ = True\nAUTH_USER_MODEL ='testapp.UserForm'\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/5.0/howto/static-files/\nSTATIC_URL = 'static/'\nSTATICFILES_DIRS=[\n    BASE_DIR/'static/'\n    ]",
+        "detail": "testdjango.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_I18N",
+        "kind": 5,
+        "importPath": "testdjango.settings",
+        "description": "testdjango.settings",
+        "peekOfCode": "USE_I18N = True\nUSE_TZ = True\nAUTH_USER_MODEL ='testapp.UserForm'\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/5.0/howto/static-files/\nSTATIC_URL = 'static/'\nSTATICFILES_DIRS=[\n    BASE_DIR/'static/'\n    ]\nMEDIA_URL ='pdf/'",
+        "detail": "testdjango.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_TZ",
+        "kind": 5,
+        "importPath": "testdjango.settings",
+        "description": "testdjango.settings",
+        "peekOfCode": "USE_TZ = True\nAUTH_USER_MODEL ='testapp.UserForm'\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/5.0/howto/static-files/\nSTATIC_URL = 'static/'\nSTATICFILES_DIRS=[\n    BASE_DIR/'static/'\n    ]\nMEDIA_URL ='pdf/'\nMEDIA_ROOT = os.path.join(BASE_DIR,'pdf/') ",
+        "detail": "testdjango.settings",
+        "documentation": {}
+    },
+    {
+        "label": "STATIC_URL",
+        "kind": 5,
+        "importPath": "testdjango.settings",
+        "description": "testdjango.settings",
+        "peekOfCode": "STATIC_URL = 'static/'\nSTATICFILES_DIRS=[\n    BASE_DIR/'static/'\n    ]\nMEDIA_URL ='pdf/'\nMEDIA_ROOT = os.path.join(BASE_DIR,'pdf/') \nMEDIA_URL ='devoir/'\nMEDIA_ROOT = os.path.join(BASE_DIR,'devoir/') \n# Default primary key field type\n# https://docs.djangoproject.com/en/5.0/ref/settings/#default-auto-field",
+        "detail": "testdjango.settings",
+        "documentation": {}
+    },
+    {
+        "label": "MEDIA_ROOT",
+        "kind": 5,
+        "importPath": "testdjango.settings",
+        "description": "testdjango.settings",
+        "peekOfCode": "MEDIA_ROOT = os.path.join(BASE_DIR,'pdf/') \nMEDIA_URL ='devoir/'\nMEDIA_ROOT = os.path.join(BASE_DIR,'devoir/') \n# Default primary key field type\n# https://docs.djangoproject.com/en/5.0/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'",
+        "detail": "testdjango.settings",
+        "documentation": {}
+    },
+    {
+        "label": "MEDIA_ROOT",
+        "kind": 5,
+        "importPath": "testdjango.settings",
+        "description": "testdjango.settings",
+        "peekOfCode": "MEDIA_ROOT = os.path.join(BASE_DIR,'devoir/') \n# Default primary key field type\n# https://docs.djangoproject.com/en/5.0/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'",
+        "detail": "testdjango.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DEFAULT_AUTO_FIELD",
+        "kind": 5,
+        "importPath": "testdjango.settings",
+        "description": "testdjango.settings",
+        "peekOfCode": "DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'",
+        "detail": "testdjango.settings",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "testdjango.urls",
+        "description": "testdjango.urls",
+        "peekOfCode": "urlpatterns = [\n    path('admin/', admin.site.urls),\n    path('',include(\"testapp.urls\")),\n    path('Direction/',include(\"Direction.urls\"))\n]",
+        "detail": "testdjango.urls",
+        "documentation": {}
+    },
+    {
+        "label": "application",
+        "kind": 5,
+        "importPath": "testdjango.wsgi",
+        "description": "testdjango.wsgi",
+        "peekOfCode": "application = get_wsgi_application()",
+        "detail": "testdjango.wsgi",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "manage",
+        "description": "manage",
+        "peekOfCode": "def main():\n    \"\"\"Run administrative tasks.\"\"\"\n    os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'testdjango.settings')\n    try:\n        from django.core.management import execute_from_command_line\n    except ImportError as exc:\n        raise ImportError(\n            \"Couldn't import Django. Are you sure it's installed and \"\n            \"available on your PYTHONPATH environment variable? Did you \"\n            \"forget to activate a virtual environment?\"",
+        "detail": "manage",
+        "documentation": {}
+    }
+]

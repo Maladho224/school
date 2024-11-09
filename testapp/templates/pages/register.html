@@ -1,0 +1,32 @@
+{%load static%}
+<head>
+   <meta charset="UTF-8">
+   <meta name="description" content="Ogani Template">
+   <meta name="keywords" content="Ogani, unica, creative, html">
+   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   <meta http-equiv="X-UA-Compatible" content="ie=edge">
+   <script src="https://code.jquery.com/jquery-3.7.1.js" integrity="sha256-eKhayi8LEQwp4NKxN+CfCh+3qOVUtJn3QNZ0TciWLP4=" crossorigin="anonymous"></script>
+   <title>GESTION CLASSE</title>
+   {% block stylesheets %}
+
+   <!-- Google Font -->
+
+   <!-- Css Styles -->
+   <link rel="stylesheet" href="{% static 'css/bootstrap.min.css'%}" type="text/css">
+  
+   {% endblock %}
+</head>
+<body>
+<header>
+   <br>
+<div class="container">
+    <form method="POST" action="{% url 'register'%}">
+        {%csrf_token%}
+
+        {{form.as_p}}
+
+        <input type="submit" value="S'inscrire">
+        <a href="{% url 'connexion'%}">Connexion</a>
+    </form>
+</div>
+

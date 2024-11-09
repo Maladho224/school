@@ -1,0 +1,62 @@
+{% extends 'pages/base.html'%}
+{%block cours%}
+<div class="container">
+    
+    <br><br>
+                {%if perms.testapp.add_cours%}
+                    <a href="{% url 'Add_cours'%}" class="btn btn-primary">Ajouter un cours </a>
+                {%endif%}
+    <br><br>
+    
+    <div class="col-md-12">
+        <div class="card">
+          <div class="card-header">
+            <h4 class="card-title">Liste des cours {{user.classe}}</h4>
+          </div>
+          <div class="card-body">
+            <div class="table-responsive">
+              <table
+                id="multi-filter-select"
+                class="display table table-striped table-hover"
+              >
+                <thead>
+                  <tr>
+                    <th>matieres</th>
+                    <th>cours</th>
+                    <th>Classe</th>
+                    <th>Date d'ajout du cours</th>
+                    <th>Numero</th>
+                    <th>Ecole</th>
+                    <th>Action</th>
+                  </tr>
+                </thead>
+                
+                <tbody>
+                    {%for ts in t %}
+                  <tr>
+                    <td>{{ts.matieres}}</td>
+                    <td><a href ="{{ts.cours.url}}">Cours</a></td>
+                    <td>{{ts.classe}}</td>
+                    <td>{{ts.date_ajout}}</td>
+                    <td>{{ts.phone}}</td>
+                    <td>{{ts.ecole}}</td>
+                    <td><a href="{% url 'detailsCours' ts.id%}" class="btn btn-info">Details</a>
+                      {%if perms.testapp.add_cours %}
+                         <a href="{% url 'modifierCours' ts.id%}" class="btn btn-primary">Modifier</a>
+                         <a href="{% url 'deleteCours' ts.id%}" class="btn btn-danger">Suprimer</a></td>
+                        {%elif perms.testapp.delete_cours%}
+                         <a href="{% url 'deleteCours' ts.id%}" class="btn btn-danger">Suprimer</a></td>
+                         {%else%}
+                         
+                     {%endif%}
+                  </tr>
+                  
+                  {%endfor%}
+                </tbody>
+              </table>
+            </div>
+          </div>
+        </div>
+      </div>
+</div>
+{%endblock%}

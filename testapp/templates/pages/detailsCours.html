@@ -1,0 +1,48 @@
+{% extends 'pages/base.html'%}
+{%block detailCours%}
+<div class="container">
+    <h1>Detail du cour sur {{req.matieres}} </h1>
+    <div class="col-md-12">
+        <div class="card">
+          <div class="card-header">
+            <h4 class="card-title">Liste des cours {{user.classe}}</h4>
+          </div>
+          <div class="card-body">
+            <div class="table-responsive">
+              <table
+                id="multi-filter-select"
+                class="display table table-striped table-hover"
+              >
+                <thead>
+                  <tr>
+                    <th>matieres</th>
+                    <th>cours</th>
+                    <th>Classe</th>
+                    <th>Date d'ajout du cours</th>
+                    <th>Numero</th>
+                    <th>Ecole</th>
+                   
+                  </tr>
+                </thead>
+                
+                <tbody>
+                   
+                  <tr>
+                    <td>{{req.matieres}}</td>
+                    <td><a href ="{{req.cours.url}}">Cours</a></td>
+                    <td>{{req.classe}}</td>
+                    <td>{{req.date_ajout}}</td>
+                    <td>{{req.phone}}</td>
+                    <td>{{req.ecole}}</td>
+                    
+                  </tr>
+                  
+                
+                </tbody>
+              </table>
+            </div>
+          </div>
+        </div>
+      </div>
+</div>
+{%endblock%}

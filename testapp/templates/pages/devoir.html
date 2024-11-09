@@ -1,0 +1,73 @@
+{% extends 'pages/base.html'%}
+{%block devoir%}
+<div class="container">
+    
+    <br><br>
+                {%if perms.testapp.add_cours%}
+                    <a href="{% url 'Add_devoir'%}" class="btn btn-primary">Ajouter un devoir </a>
+                {%endif%}
+                
+
+    <br><br>
+    
+    <div class="col-md-12">
+        <div class="card">
+          <div class="card-header">
+            <h4 class="card-title">LISTE DES DEVOIRS DE LA  {{user.classe}}</h4>
+          </div>
+          <div class="card-body">
+            <div class="table-responsive">
+              <table
+                id="multi-filter-select"
+                class="display table table-striped table-hover"
+              >
+                <thead>
+                  <tr>
+                    <th>matieres</th>
+                    <th>Devoirs</th>
+                    {% comment %} <th>Images</th> {% endcomment %}
+                    <th>Classe</th>
+                    <th>Date d'ajout du cours</th>
+                    {%if perms.testapp.add_traiter%}
+                    <th>Ajouter un traiter</th>
+                    {%endif%}
+                    <th>Ecole</th>
+                    <th>Action</th>
+                  </tr>
+                </thead>
+                
+                <tbody>
+                    {%for ts in req %}
+                  <tr>
+                    <td>{{ts.matieres}}</td>
+                   
+                    <td><a href ="{{ts.fichier.url}}">Devoir</a></td>
+                    {% comment %} <td><a href ="{{ts.image_sujet.url}}">voir</a></td> {% endcomment %}
+                   
+                    <td>{{ts.classe}}</td>
+                    <td>{{ts.date_ajout}}</td>
+                    {%if perms.testapp.add_traiter%}
+                    <td><a href="{% url 'traiterDevoir'%}" class="btn btn-info">Ajouter le Traiter du devoir </a>
+                      {%endif%}
+                    <td>{{ts.ecole}}</td>
+                    {% comment %} <td><a href="{% url 'detailsCours' ts.id%}" class="btn btn-info">Details</a> {% endcomment %}
+                      {%if perms.testapp.add_cours %}
+                      <td>
+                         <a href="{% url 'modifierDevoirs' ts.id%}" class="btn btn-primary">Modifier</a>
+                         <a href="{% url 'deleteDevoirs' ts.id%}" class="btn btn-danger">Suprimer</a></td>
+                        {%elif perms.testapp.delete_cours%}
+                        <td>  <a href="{% url 'deleteDevoirs'% ts.id}'" class="btn btn-danger">Suprimer</a></td></td>
+                         {%else%}
+                         
+                     {%endif%}
+                  </tr>
+                  
+                  {%endfor%}
+                </tbody>
+              </table>
+            </div>
+          </div>
+        </div>
+      </div>
+</div>
+{%endblock%}

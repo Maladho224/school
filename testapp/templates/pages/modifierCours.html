@@ -1,0 +1,11 @@
+{% extends 'pages/base.html'%}
+{%block update%}
+   <div class= "form-group">
+    <form method="POST" enctype="multipart/form-data">
+        {%csrf_token%}
+      <div class="form-control">
+         {{form.as_p}}
+        <input type="submit"value="Modifier">
+      </div>
+   </div>
+{%endblock%}

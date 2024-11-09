@@ -1,0 +1,26 @@
+{% extends 'pages/base.html'%}
+{%block classe%}
+<h1>Liste des eleves {{user.classe}} </h1>
+<table border="2">
+<thead>
+    <tr>
+        <th>nom</th>
+        <th>Prenom</th>
+        <th>Classe</th>
+    </tr>
+
+</thead>
+<tbody>
+    {%for ts in t %}
+    <tr>
+        <td>{{ts.first_name}}</td>
+        <td>{{ts.last_name}}</td>
+        <td>{{ts.classe}}</td>
+
+    </tr>
+    {%endfor%}
+</tbody>
+</table>
+
+
+{%endblock%}

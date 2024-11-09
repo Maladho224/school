@@ -1,0 +1,15 @@
+{% extends 'pages/base.html'%}
+{%block Add_cours%}
+
+<h1> FORMULAIRE D'AJOUTE DE COURS </h1>
+
+<form method="post" enctype="multipart/form-data">
+    {%csrf_token%}
+    
+   <div class="form-group">
+    {{form.as_p}}
+   </div>
+    <input type="submit" value="Ajouter" class="form form-control">
+</form>
+
+{%endblock%}

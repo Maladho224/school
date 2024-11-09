@@ -1,0 +1,52 @@
+{% load static%}
+<!DOCTYPE html>
+<html lang="zxx">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="description" content="Ogani Template">
+    <meta name="keywords" content="Ogani, unica, creative, html">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <script src="https://code.jquery.com/jquery-3.7.1.js" integrity="sha256-eKhayi8LEQwp4NKxN+CfCh+3qOVUtJn3QNZ0TciWLP4=" crossorigin="anonymous"></script>
+    <title>GESTION CLASSE</title>
+    {% block stylesheets %}
+
+    <!-- Google Font -->
+
+    <!-- Css Styles -->
+    <link rel="stylesheet" href="{% static 'css/bootstrap.min.css'%}" type="text/css">
+   
+    {% endblock %}
+</head>
+<body>
+<header>
+<div class="container">
+    <a href ="{% url 'acceuil'%}">Acceui</a>
+
+    <a href ="{% url 'cours'%}">Cours </a>
+    <a href ="{% url 'devoir'%}">Devoir </a>
+    <a href ="{% url 'traiter'%}">Voirs les devoirs traiter</a>
+    {%if perms.testapp.delete_cours%}
+    <a href="{% url 'effectifs'%}">Liste des eleves</a>
+    {%endif%}
+    <a href="{% url 'deconnexion'%}">Deconnexion</a>
+</div>
+
+</header>
+    {%block acceuil%}{%endblock%}
+    {%block classe%}{%endblock%}
+    {%block Add_cours%}{%endblock%}
+    {%block cours%}{%endblock%}
+    {%block effectifs%}{%endblock%}
+    {%block detailCours%}{%endblock%}
+    {%block devoirs%}{%endblock%}
+    {%block update%}{%endblock%}
+    {%block updateEffectifs%}{%endblock%}
+    {%block devoir%}{%endblock%}
+    {%block Add_devoirs%}{%endblock%}
+    {%block Add_traiter%}{%endblock%}
+    {%block traiter%}{%endblock%}
+    {%block updateTraiter%}{%endblock%}
+    
+</body>

@@ -1,0 +1,59 @@
+{% extends 'pages/base.html'%}
+{%block traiter%}
+<div class="container">
+
+    <br><br>
+    
+    <div class="col-md-12">
+        <div class="card">
+          <div class="card-header">
+            <h4 class="card-title">LISTE DES TRAITER {{user.classe}}</h4>
+          </div>
+          <div class="card-body">
+            <div class="table-responsive">
+              <table
+                id="multi-filter-select"
+                class="display table table-striped table-hover"
+              >
+                <thead>
+                  <tr>
+                    <th>matieres</th>
+                    <th>Traiter</th>
+                    <th>Classe</th>
+                    <th>Date d'ajout du cours</th>
+                    <th>Note</th>
+                    {%if perms.testapp.add_traiter%}
+                    <th>Action</th>
+                    {%endif%}
+
+                  
+                  </tr>
+                </thead>
+                
+                <tbody>
+                    {%for ts in req %}
+                  <tr>
+                    <td>{{ts.matieres}}</td>
+                    <td><a href ="{{ts.traiter.url}}">voir</a></td>
+                    <td>{{ts.classe}}</td>
+                    <td>{{ts.date_ajout}}</td>
+                    <td>{{ts.note}}</td>
+                    {%if perms.testapp.add_cours%}
+                    <td><a href="{% url 'deleteTraiter' ts.id%}" class="btn btn-danger">Suprimer</a>
+                    <a href="{% url 'updateTraiter' ts.id%}" class="btn btn-primary">Modifier</a></td>
+                    {%elif perms.testapp.add_traiter%}
+                    <td><a href="{% url 'updateTraiter' ts.id%}" class="btn btn-primary">Modifier</a></td>
+                    <td><a href="{% url 'deleteTraiter' ts.id%}" class="btn btn-danger">Suprimer</a></td>
+                    {%endif%}
+                                       
+                  </tr>
+                  
+                  {%endfor%}
+                </tbody>
+              </table>
+            </div>
+          </div>
+        </div>
+      </div>
+</div>
+{%endblock%}

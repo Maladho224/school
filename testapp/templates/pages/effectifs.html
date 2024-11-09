@@ -1,0 +1,61 @@
+{% extends 'pages/base.html'%}
+{%block effectifs%}
+<div class="container">
+   
+    <br><br>
+    {%if perms.testapp.add_classes%}
+            <a href="{% url 'register'%}" class="btn btn-primary">Ajouter une personne </a>
+       {%endif%}
+    <br><br>
+ 
+ <div class="col-md-12">
+    <div class="card">
+      <div class="card-header">
+        <h4 class="card-title"> LISTE DES ELEVES DE LA  : {{user.classe}}</h4>
+      </div>
+      <div class="card-body">
+        <div class="table-responsive">
+          <table
+            id="multi-filter-select"
+            class="display table table-striped table-hover"
+          >
+            <thead>
+              <tr>
+                <th>NOM</th>
+            
+                <th>CLASSE</th>
+                <th>PHONE</th>
+                <th>ECOLE</th>
+                <th>DATE</th>
+               
+                <th>ACTION</th>
+              </tr>
+            </thead>
+            
+            <tbody>
+                {%for ts in t %}
+                <tr>
+                    
+                    <td>{{ts.username}}</td>
+                    <td>{{ts.classe}}</td>
+                    <td>{{ts.phone}}</td>
+                    <td>{{ts.ecole}}</td>
+                    <td>{{ts.date_aj}}</td>
+                    <td>
+                      {%if perms.testapp.add_matieres %}
+                         <a href="{% url 'modifiereffectifs' ts.id%}" class="btn btn-primary">Modifier</a>
+                         <a href="{% url 'deleteeffectifs' ts.id%}" class="btn btn-danger">Suprimer</a></td>
+                                               
+                     {%endif%}
+        
+                </tr>
+                {%endfor%}
+            </tbody>
+          </table>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+</div>
+{%endblock%}
